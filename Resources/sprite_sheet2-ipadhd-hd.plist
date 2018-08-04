@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>dialogBox</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {1159, 811}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.5, 0.5}</string>
+			<key>spriteSize</key>
+			<string>{1159, 811}</string>
+			<key>spriteSourceSize</key>
+			<string>{1160, 812}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2048, 0}, {1159, 811}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>menu_options</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {2046, 1530}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{2046, 1530}</string>
+			<key>spriteSourceSize</key>
+			<string>{2048, 1536}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2052, 1540}, {2046, 1530}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>menustart</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 0}, {2045, 1532}}</string>
+			<key>spriteOffset</key>
+			<string>{1.5, 2}</string>
+			<key>spriteSize</key>
+			<string>{2045, 1532}</string>
+			<key>spriteSourceSize</key>
+			<string>{2048, 1536}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1540}, {2045, 1532}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>multiplication-background</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 0}, {2044, 1535}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 0.5}</string>
+			<key>spriteSize</key>
+			<string>{2044, 1535}</string>
+			<key>spriteSourceSize</key>
+			<string>{2048, 1536}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {2044, 1535}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+	</dict>
+</dict>
+</plist>

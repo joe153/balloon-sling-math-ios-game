@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>buyBackground</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {512, 384}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{512, 384}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 384}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{515, -1}, {512, 384}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>division-background</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0.5, 0}, {511.5, 384}}</string>
+			<key>spriteOffset</key>
+			<string>{0.25, -0}</string>
+			<key>spriteSize</key>
+			<string>{511.5, 384}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 384}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {511.5, 384}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>smgrback</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0.25, 0}, {511.75, 384}}</string>
+			<key>spriteOffset</key>
+			<string>{0.125, -0}</string>
+			<key>spriteSize</key>
+			<string>{511.75, 384}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 384}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 385}, {511.75, 384}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>subtractionBackground</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {511.75, 384}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.125, -0}</string>
+			<key>spriteSize</key>
+			<string>{511.75, 384}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 384}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 385}, {511.75, 384}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+	</dict>
+</dict>
+</plist>
